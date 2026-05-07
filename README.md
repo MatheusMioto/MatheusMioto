@@ -40,7 +40,7 @@ Principais responsabilidades:
 ---
 
 <div align="center">
-<a href="https://linkedin.com/in/eduardoamorim-dev" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
+<a href="https://www.linkedin.com/in/matheusmi0t0" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
 <a href = "mailto:amorimm.dev@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-%23D44638?logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:top margin:6px 4px"></a>
 </div> 
 
