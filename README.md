@@ -5,6 +5,7 @@
 ## <div align="center"> 🧑‍💻 Olá, seja bem-vindo(a)!
 
 Engenheiro de Software Full Stack com mais de 2 anos de experiência em arquitetura, desenvolvimento e manutenção de aplicações Java.
+
 Experiência sólida em Java, Apis RestFull, IA e processamento de dados além da atuação com Angular na criação de aplicações completas e escaláveis.
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Triângulo Mineiro (IFTM).
