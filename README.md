@@ -7,8 +7,8 @@
 Engenheiro de Software Full Stack com mais de 2 anos de experiência em arquitetura, desenvolvimento e manutenção de aplicações java e Apis RestFull.
 Experiência sólida em Java, Apis RestFull, IA e processamento de dados além da atuação com Angular na criação de aplicações completas e escaláveis.
 
-🎓 Graduado: **Engenharia de software**.
-🎓 Pós Graduado: **Desenvolvimento Java**.
+🎓 Graduado: **Engenharia de software**
+🎓 Pós Graduado: **Desenvolvimento Java**
 
 💼 **Experiência atual:**
 
@@ -38,6 +38,8 @@ Principais responsabilidades:
 - Ecossistema java/spring e boas práticas
 
 ---
+
+## <div align="center"> Fale Comigo!
 
 <div align="center">
 <a href="https://www.linkedin.com/in/matheusmi0t0" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
