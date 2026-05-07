@@ -63,6 +63,8 @@ Main responsibilities:
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mioto-5112b416a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusmiotoo/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/matheus.miotto.73)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmiototowork@gmail.com?subject=Work%20Opportunity&body=Hey%20Matheus%2C%20I%20came%20from%20your%20GitHub%20and%20would%20like%20to%20work%20with%20you!)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5569993654327&text=Hey%2C%20Matheus!%20I%20came%20from%20your%20GitHub%2C%20I%27d%20like%20to%20work%20with%20you!)
 </div>
 
 ---

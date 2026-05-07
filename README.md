@@ -64,7 +64,7 @@ Principais responsabilidades:
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mioto-5112b416a/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/matheus.miotto.73)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusmiotoo/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:matheusmiototowork@://gmail.com.br")
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmiototowork@gmail.com?subject=Oportunidade%20de%20Trabalho&body=Fala%20Matheus%2C%20vim%20do%20git%20gostaria%20de%20trabalhar%20contigo!)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5569993654327&text=Fala%2C%20Matheus!%20Vim%20do%20teu%20GitHub%2C%20quero%20trabalhar%20contigo!)
 
 
