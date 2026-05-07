@@ -3,9 +3,9 @@
 <div align="center">Change language: <a href="https://github.com/caduamorimm-dev/caduamorimm-dev/blob/main/US.md" target="_blank">🇺🇸</a></div>
 
 ## <div align="center"> 🧑‍💻 Olá, seja bem-vindo(a)!
-<div></div>
 
-Desenvolvedor de Software na **Sicoob Coopacredi**, focado em **otimização de processos internos** e desenvolvimento de soluções para diversos setores da cooperativa.
+Engenheiro de Software Full Stack com mais de 2 anos de experiência em arquitetura, desenvolvimento e manutenção de aplicações Java.
+Experiência sólida em Java, Apis RestFull, IA e processamento de dados além da atuação com Angular na criação de aplicações completas e escaláveis.
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Triângulo Mineiro (IFTM).
 
