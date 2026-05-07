@@ -49,6 +49,7 @@ Principais responsabilidades:
 
 ---
 
+<div align="center">  
 ## 🚀 Minhas Skills
 
 > Aplicações e Dados
@@ -83,6 +84,7 @@ Principais responsabilidades:
 <a><img height="25" src="https://img.shields.io/badge/-Adobe%20Photoshop-%23181717?logo=Adobe-Photoshop&logocolor=white" alt="Ph" style="vertical-align:top margin:6px 4px"/></a>
 
 #
+</div>
 
 
 
