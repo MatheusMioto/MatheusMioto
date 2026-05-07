@@ -54,6 +54,8 @@ Principais responsabilidades:
 
 </div>
 
+---
+
 <div align="center"> 
   
   ##
