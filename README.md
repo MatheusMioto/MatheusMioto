@@ -38,7 +38,7 @@ Principais responsabilidades:
 - Ecossistema java/spring e boas práticas
 
 ---
-<a href="https://api.whatsapp.com/send?phone=5569993654327&text=Fala%2C%20Matheus!%20Vim%20do%20teu%20portif%C3%B3lio%2C%20quero%20trabalhar%20contigo!" target="_blank" rel="noopener" class="contato__item contato__item--whatsapp">
+
 <div align="center">
 <a href="https://www.linkedin.com/in/matheusmi0t0" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
 <a href = "mailto:amorimm.dev@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-%23D44638?logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:top margin:6px 4px"></a>
