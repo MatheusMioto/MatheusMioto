@@ -39,7 +39,9 @@ Principais responsabilidades:
 
 ---
 
-<div align="center"> ## 📳 Fale Comigo!
+<div align="center"> 
+  
+  ## 📳 Fale Comigo!
 
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mioto-5112b416a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusmiotoo/)
@@ -47,7 +49,8 @@ Principais responsabilidades:
 </div><br/>
 
 <div align="center">
-## Tecnologias que eu uso no meu dia 💻💻
+  
+  ## Tecnologias que eu uso no meu dia 💻💻
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
