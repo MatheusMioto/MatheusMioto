@@ -4,7 +4,7 @@
 
 ## <div align="center"> 🧑‍💻 Olá, seja bem-vindo(a)!
 
-Engenheiro de Software Full Stack com mais de 2 anos de experiência em arquitetura, desenvolvimento e manutenção de aplicações Java.
+Engenheiro de Software Full Stack com mais de 2 anos de experiência em arquitetura, desenvolvimento e manutenção de aplicações java e Apis RestFull.
 Experiência sólida em Java, Apis RestFull, IA e processamento de dados além da atuação com Angular na criação de aplicações completas e escaláveis.
 
 🎓 Graduado: **Engenharia de software**
@@ -12,8 +12,8 @@ Experiência sólida em Java, Apis RestFull, IA e processamento de dados além d
 
 💼 **Experiência atual:**
 
-Atuo como Desenvolvedor FullStack no desenvolvimento completo de soluções para a Rover Gestão, sendo responsável pela arquitetura e manutenção de uma 
-API RESTfull e pelo desenvolvimento do front-end da aplicação.
+Atuo como Desenvolvedor FullStack desenvolvendo Apis RestFull, sendo responsável pela arquitetura, manutenção de uma API RESTfull 
+e desenvolvimento do front-end da aplicação.
 
 Principais responsabilidades:
 - Arquitetura, planejamento e implementação de APIs RESTful escaláveis e seguras.
