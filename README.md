@@ -7,8 +7,9 @@
 Engenheiro de Software Full Stack com mais de 2 anos de experiência em arquitetura, desenvolvimento e manutenção de aplicações java e Apis RestFull.
 Experiência sólida em Java, Apis RestFull, IA e processamento de dados além da atuação com Angular na criação de aplicações completas e escaláveis.
 
-#🎓 Graduado: **Engenharia de software**
-#🎓 Pós Graduado: **Desenvolvimento Java**
+###🎓 Graduado: **Engenharia de software**
+
+###🎓 Pós Graduado: **Desenvolvimento Java**
 
 💼 **Experiência atual:**
 
