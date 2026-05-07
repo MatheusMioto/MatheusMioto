@@ -10,24 +10,31 @@ Experiência sólida em Java, Apis RestFull, IA e processamento de dados além d
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Triângulo Mineiro (IFTM).
 
 💼 **Experiência atual:**
-- Desenvolvimento de sistemas web com Django para automação e otimização de processos internos
-- Soluções para múltiplos departamentos
-- Sistemas de gestão com hierarquias organizacionais complexas (permissões, setores, diretorias)
-- Integração e processamento de dados com Excel e MySQL
+
+Atuo como Desenvolvedor FullStack no desenvolvimento completo de soluções para a Rover Gestão, sendo responsável pela arquitetura e manutenção de uma 
+API RESTfull e pelo desenvolvimento do front-end da aplicação.
+
+Principais responsabilidades:
+- Arquitetura, planejamento e implementação de APIs RESTful escaláveis e seguras.
+- Criação de camadas de segurança para proteção de endpoints e recursos sensíveis da aplicação.
+- Gerenciamento de estruturas e migrações de banco de dados
+- Desenvolvimento e manutenção de testes automatizados para validação contínua de funcionalidades.
+- Containerização do ambiente de desenvolvimento e integração contínua.
+- Criação de documentação interativa para consumo e integração de endpoints
+- Implementação da interface do usuário com foco em usabilidade, performance e responsividade.
+- Integração entre as camadas de apresentação e lógica de negócio por meio de serviços RESTfull
 
 🚀 **Stack Principal:**
-- **Backend:** Python, Django, Node.js, MySQL
-- **Frontend:** React, JavaScript, HTML/CSS
-- **Mobile:** React Native, Expo
-- **Automação:** Scripts Python para processamento de dados.
+- **Backend:** java, Spring Boot, MySQL, PostreSQL
+- **Frontend:** Angular, JavaScript,Type, HTML/CSS
 
 🔭 **Projetos em desenvolvimento:**
-- Ferramentas de automação para otimização de processos internos
+- Apis Restfull para a gestão de empresas
 - Aplicações web para diferentes setores da organização
 
 🌱 **Atualmente aprofundando conhecimentos em:**
 - Arquitetura de software e padrões de projeto
-- Ecossistema Python/Django e boas práticas
+- Ecossistema java/spring e boas práticas
 
 ---
 
